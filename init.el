@@ -16,3 +16,4 @@
 
 ;; Lanuage supports
 (require 'lang-lisp)
+(require 'lang-python)
