@@ -21,7 +21,7 @@ git clone --recurse-submodules --depth=1 https://github.com/thislight/.emacs.d.g
 - magit
 - Projectile (switch project: C-M-SPC)
 - Languages:
-    - Lisp: SLIME and `slime-qlot-exec`
+    - Lisp: SLY, with sly-quicklisp and sly-asdf
     - Python: elpy and poetry
 
 ## Licenses?
